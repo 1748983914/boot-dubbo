@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-user-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-order-service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-interface/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="E:/BaiduNetdiskDownload/05. 高级框架阶段【北京尚学堂·百战程序员】/01 MyBatis3/01 MyBatis第一天/01 资料/10 高级dtd/dtd/mybatis-3-config.dtd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
